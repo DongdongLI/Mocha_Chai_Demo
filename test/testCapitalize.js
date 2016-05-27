@@ -9,5 +9,9 @@ describe("capitalize", function () {
         expect(capitalize("express")).to.equal("Express");
         expect(capitalize("cats")).to.equal("Cats");
     });
+
+    it("make the rest of the string lowercase", function () {
+        expect(capitalize("javaScript")).to.equal("Javascript");
+    })
 });
 
