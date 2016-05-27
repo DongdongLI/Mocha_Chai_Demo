@@ -17,5 +17,11 @@ describe("capitalize", function () {
     it("check the empty string",function () {
         expect(capitalize("")).to.equal("");
     });
+    it("expects an error", function () {
+        expect(function(){capitalize(123); }).to.throw(Error);
+    });
+    it("reverse test", function () {
+        expect(capitalize("foo")).not.to.equal("foo");
+    });
 });
 
