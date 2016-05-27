@@ -21,21 +21,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="capitalize.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="capitalize.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/capitalize.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+            <state relative-caret-position="30">
+              <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="testCapitalize.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="testCapitalize.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/testCapitalize.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -46,8 +46,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/capitalize.js" />
         <option value="$PROJECT_DIR$/test/testCapitalize.js" />
+        <option value="$PROJECT_DIR$/capitalize.js" />
       </list>
     </option>
   </component>
@@ -193,12 +193,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1464377006019</updated>
-      <workItem from="1464377007096" duration="1324000" />
+      <workItem from="1464377007096" duration="1476000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1324000" />
+    <option name="totallyTimeSpent" value="1476000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="113" y="23" width="1400" height="757" extended-state="0" />
@@ -231,18 +231,18 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/capitalize.js">
+    <entry file="file://$PROJECT_DIR$/test/testCapitalize.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/testCapitalize.js">
+    <entry file="file://$PROJECT_DIR$/capitalize.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        <state relative-caret-position="30">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
           <folding />
         </state>
       </provider>
